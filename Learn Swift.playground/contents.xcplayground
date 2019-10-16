@@ -4,5 +4,6 @@
         <page name='Miscellaneous'/>
         <page name='Closures'/>
         <page name='Guards'/>
+        <page name='Initialization'/>
     </pages>
 </playground>
